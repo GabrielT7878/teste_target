@@ -1,0 +1,8 @@
+Passo 1 - Acender interruptor 1, esperar alguns minutos, desligar e acender o interruptor 2.
+
+Passo 2- Ir até uma das salas, e verificar se a lâmpada está acessa, se sim, é do interruptor 2, se estiver apagada e quente então é do interruptor 1, 
+se estiver apagada e fria então é do interruptor 3.
+
+Passo 3 - Já sabendo um dos interruptores correspondente a uma das salas, faça o passo 1 e 2 novamente
+(para garantir que a lâmpada da sala possa estar quente novamente ou acessa), porém eliminando o interruptor conhecido, 
+e descubra as outras duas lâmpadas correspondentes.
